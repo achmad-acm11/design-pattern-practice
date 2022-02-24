@@ -5,3 +5,4 @@
 2. Abstract Factory
 3. Builder
 4. Prototype
+5. Adapter
