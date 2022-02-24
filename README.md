@@ -5,4 +5,7 @@
 2. Abstract Factory
 3. Builder
 4. Prototype
-5. Adapter
+
+## Structural Pattern
+1. Adapter
+2. Bridge
