@@ -12,3 +12,4 @@
 3. Facade
 4. Decorator
 5. Composite
+6. Proxy
