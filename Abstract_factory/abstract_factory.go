@@ -37,3 +37,23 @@ type FurnitureFactory interface {
 	CreateCoffeTable() CoffeTable
 	CreateSofa() Sofa
 }
+
+// Factory Sport
+type IShoe interface {
+	SetLogo(logo string)
+	SetSize(size int)
+	GetLogo() string
+	GetSize() int
+}
+
+type IShirt interface {
+	SetLogo(logo string)
+	SetSize(size int)
+	GetLogo() string
+	GetSize() int
+}
+
+type ISportFactory interface {
+	MakeShoe() IShoe
+	MakeShirt() IShirt
+}

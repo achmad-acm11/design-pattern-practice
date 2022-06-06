@@ -13,3 +13,6 @@
 4. Decorator
 5. Composite
 6. Proxy
+
+## Behavioral Pattern
+1. Chain of Responsibility
