@@ -151,6 +151,7 @@ func main() {
 
 	// Test Amend
 	// in dev
+	// Update master
 	vendingMachine := State.NewVendingMachine(1, 10)
 
 	err := vendingMachine.RequestItem()
