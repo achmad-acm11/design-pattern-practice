@@ -150,6 +150,7 @@ func main() {
 	//receptionSection.Execute(patient1)
 
 	// Test Amend
+	// in dev
 	vendingMachine := State.NewVendingMachine(1, 10)
 
 	err := vendingMachine.RequestItem()
