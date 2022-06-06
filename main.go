@@ -146,7 +146,7 @@ func main() {
 	//patient1 := &Chain_of_responsibility.Patient{
 	//	Name: "Budi",
 	//}
-	//
+	// Ok Dev
 	//receptionSection.Execute(patient1)
 
 	// Test Amend
